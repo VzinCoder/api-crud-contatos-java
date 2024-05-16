@@ -1,0 +1,2 @@
+## API CRUD de Contatos
+Este repositório contém uma API desenvolvida para gerenciar contatos, utilizando o framework Spring Boot. Para persistência de dados, foi empregado o banco de dados H2, proporcionando uma abordagem simples e eficaz para o armazenamento temporário de informações. Além disso, a documentação da API é facilitada através da integração com o Swagger, permitindo uma visualização clara e interativa das endpoints e parâmetros disponíveis.
